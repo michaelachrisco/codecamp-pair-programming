@@ -1,0 +1,18 @@
+{
+  "name": "codecamp-pair-programming",
+  "version": "1.0.0",
+  "description": "pair programming examples using TDD",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+    "devDependencies": {
+      "mocha": "*"    
+  },
+    "Dependencies"
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "michael chrisco",
+  "license": "ISC"
+}
