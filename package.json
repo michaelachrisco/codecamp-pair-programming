@@ -7,9 +7,9 @@
     "test": "test"
   },
     "devDependencies": {
-      "mocha": "*"    
+        "chai": "*",
+        "mocha": "*"   
   },
-    "Dependencies"
   "scripts": {
     "test": "mocha"
   },
