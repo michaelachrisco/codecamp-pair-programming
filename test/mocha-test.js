@@ -1,6 +1,7 @@
 var assert = require('assert');
 var chai = require('chai');
 var expect = chai.expect;
+var Cow = require( "../src/cow.js" ).Cow;
 
 describe('Array', function() {
 	  describe('#indexOf()', function () {
