@@ -5,4 +5,4 @@ sudo apt-get --yes install nodejs
 sudo apt-get --yes install nodejs-legacy
 sudo apt-get --yes install npm mocha
 
-npm install
+sudo npm install
