@@ -1,0 +1,8 @@
+.git*   eol=lf
+*.yml   eol=lf
+*.md    eol=lf
+*.json  eol=lf
+*.bash  eol=lf
+*.sh    eol=lf
+*.js    eol=lf
+
